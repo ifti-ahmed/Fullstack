@@ -1,0 +1,104 @@
+body {
+    font-family: Helvetica;
+}
+
+div{
+    width: 75%;
+    margin: auto;
+}
+
+#heading {
+   color: white;
+   margin: 0;
+    padding: 24px 28px;
+    border-bottom: 1px solid white;
+    overflow: hidden;
+    background-color: #c31b1b
+    
+}
+
+
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #c31b1b;
+}
+
+#list{
+    float: left;
+    border-right: 1px solid white;
+}
+
+#list a{
+    color: white;
+    display: block;
+    padding: 20px 24px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#list a:hover{
+    background-color: #701313;
+}
+
+#list:last-child{
+    border-right: 1px solid white;
+}
+
+#fixed{
+   float: right;
+   border-left:  1px solid white;
+}
+
+#fixed a:hover{
+    background-color: #701313;
+}
+
+#fixed a{
+    color: white;
+    display: block;
+    padding: 20px 24px;
+    text-align: center;
+    text-decoration: none;
+}
+
+ol{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    background-color: rgb(236, 236, 209);
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    border-right: 1px solid black;
+}
+
+li a{
+    color: black;
+    display: block;
+    padding: 16px 20px;
+    text-align: center;
+}
+
+li a:hover {
+    background-color: antiquewhite;
+}
+
+#share {
+    height: 40px;
+    width: 40px;
+}
+
+#kwasi {
+    height: 400px;
+    width: 800px;
+}
+
+
+
